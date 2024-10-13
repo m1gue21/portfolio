@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Javascript",
+    "imageClass": "devicon-javascript-plain colored"
+  },
+  {
+    "title": "Python",
+    "imageClass": "devicon-python-plain colored"
+  },
+  {
+    "title": "Unity",
+    "imageClass": "devicon-unity-plain colored"
+  },
+  {
+    "title": "Angular",
+    "imageClass": "devicon-angularjs-plain colored"
+  },
+  {
+    "title": "Bootstrap",
+    "imageClass": "devicon-bootstrap-plain colored"
+  },
+  {
+    "title": "AWS Services",
+    "imageClass": "devicon-amazonwebservices-plain-wordmark colored"
+  },
+  {
+    "title": "React",
+    "imageClass": "devicon-react-original colored"
+  },
+  {
+    "title": "Express",
+    "imageClass": "devicon-express-original colored"
+  },
+  {
+    "title": "NextJS",
+    "imageClass": "devicon-nextjs-plain colored"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageClass": "devicon-tailwindcss-original colored"
+  },
+  {
+    "title": "GraphQL",
+    "imageClass": "devicon-graphql-plain colored"
+  },
+  {
+    "title": "NodeJS",
+    "imageClass": "devicon-nodejs-plain-wordmark colored"
+  },
+  {
+    "title": "NestJS",
+    "imageClass": "devicon-nestjs-original colored"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageClass": "devicon-postgresql-plain colored"
+  },
+  {
+    "title": "MongoDB",
+    "imageClass": "devicon-mongodb-plain colored"
+  }
+]
